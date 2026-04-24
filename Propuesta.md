@@ -63,3 +63,25 @@ Reglas que debes seguir durante toda la conversación:
 6. Al final de cada sesión, hacer un resumen de los acuerdos y requerimientos pendientes.
 
 Comenzar presentándote y dando el briefing inicial del proyecto: el contexto de la empresa, qué necesitas y cuáles son los primeros 2 o 3 requerimientos más importantes.
+
+
+**Requerimientos del proyecto**
+
+**Sesión 1 — 24/04/2026**
+
+**Briefing inicial**
+
+Hola, soy Felipe Quiñones, gerente de Móvil Center F&F, un negocio dedicado a la venta y reparación de celulares.
+
+Actualmente manejamos la información de forma manual, lo que nos genera desorden, pérdida de datos y dificultad para dar información a los clientes sobre el estado de sus equipos.
+
+Necesito una aplicación web que me permita organizar todo el proceso del negocio, desde el ingreso de celulares hasta las reparaciones, y que además los clientes puedan consultar información sin tener que escribirnos por WhatsApp.
+
+También quiero que el sistema sea fácil de usar, tanto para nosotros como para los clientes.
+
+**Requerimientos acordados**
+
+* REQ-01: El sistema debe permitir registrar reparaciones indicando el problema del celular, el tipo de servicio y el estado (recibido, en proceso, terminado).
+* REQ-02: El cliente debe poder consultar el estado de su reparación desde la web.
+* REQ-03: Debe existir un catálogo de celulares disponibles para la venta que los clientes puedan visualizar.
+
