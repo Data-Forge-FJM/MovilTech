@@ -1,0 +1,24 @@
+# Archivos compilados (No se suben)
+*.class
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
+# Carpeta de construcción (Si usan Maven o Gradle)
+target/
+build/
+
+# Archivos de configuración de editores (VS Code, IntelliJ, Eclipse)
+.settings/
+.project
+.classpath
+.metadata/
+.idea/
+*.iml
+.vscode/
+
+# Logs y archivos temporales
+*.log
+temp/
