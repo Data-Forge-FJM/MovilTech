@@ -80,7 +80,33 @@ Avances presentados al cliente [Describir qué se mostró]
 ### Nuevos requerimientos
 -REQ-03;.....
 
+***************************************************************************
+## Sesión 1 — 24 de abril de 2026
+**Cliente:** Felipe (Gerente)
 
+### 1. Briefing Inicial
+Felipe lidera una empresa de tecnología que actualmente gestiona ventas y reparaciones de forma manual (hojas de cálculo y WhatsApp). Esto causa errores en inventario y demoras en la atención. 
+
+**Objetivo:** Crear una plataforma web con dos frentes:
+* **Panel Administrativo:** Control interno de inventario, ventas y órdenes.
+* **Portal de Clientes:** Consulta de stock y estado de reparaciones.
+
+### 2. Requerimientos Prioritarios
+- **REQ-01: Gestión de Reparaciones (Alta Prioridad):** Registro de equipos con datos del cliente, marca, falla y estados (Recibido, Diagnóstico, En Reparación, Listo, Entregado).
+- **REQ-02: Inventario y Catálogo:** Gestión de equipos en venta (Marca, Modelo, Capacidad, Color, Precio, Stock).
+- **REQ-03: Usabilidad:** Interfaz simple e intuitiva para personal no técnico.
+
+### 3. Lista de Páginas Esperadas (Estructura del Sistema)
+Según lo conversado, el sistema contará con las siguientes vistas:
+1.  **Página de Inicio (Landing):** Catálogo de celulares para clientes.
+2.  **Consulta de Reparación:** Buscador para que el cliente vea el estado de su equipo.
+3.  **Login:** Acceso para Felipe y su equipo.
+4.  **Dashboard Admin:** Resumen de reparaciones pendientes y stock bajo.
+5.  **Módulo Taller:** Gestión de estados de reparación.
+6.  **Módulo Inventario:** Registro y edición de celulares nuevos.
+
+---
+*Actualizado el 24 de abril de 2026*
 
 
 Actualizado el 24 de abril
